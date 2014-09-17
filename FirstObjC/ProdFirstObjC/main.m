@@ -30,7 +30,7 @@ int main(int argc, const char * argv[])
         
         // insert code here...
         NSLog(@"Hello, World!");
-        NSLog(@"Second Line from Obj C");
+        NSLog(@"Second Line from Obj C before git commit");
         
         World * world = [[World alloc] init];
         [world World];
